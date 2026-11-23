@@ -1,0 +1,15 @@
+{
+  "packages": 1329,
+  "vulnerable_packages": 62,
+  "mae_model": 0.042229139912573786,
+  "mae_baseline_mean": 0.0639655064059776,
+  "r2_total_count": 0.33813207345281593,
+  "r2_per_severity": {
+    "low": 0.018144828965877435,
+    "moderate": 0.2723562740861951,
+    "high": 0.13450753524461,
+    "critical": 0.01542475517427011
+  },
+  "auc_any_vulnerability": 0.8955622883621458,
+  "avg_precision_any": 0.49335732865207155
+}
